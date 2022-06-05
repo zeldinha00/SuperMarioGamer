@@ -4,10 +4,10 @@
 
 ## Desafios
 
-:point_right: Adicionar um menu inicial.
-:point_right: Adicionar  um contador de SCORE
-:point_right: Adicionar tela de GAME OVER
-:point_right: Colocar o botão para reiniciar o game quando for game over.
+- :point_right: Adicionar um menu inicial.
+- :point_right: Adicionar  um contador de SCORE
+- :point_right: Adicionar tela de GAME OVER
+- :point_right: Colocar o botão para reiniciar o game quando for game over.
 
 ## Ícones
 - :package: Nova funcionalidade
